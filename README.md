@@ -5,3 +5,5 @@ This is Calvin Kang, and would like to learn FinTech knowledge skills and try to
 Currently, I cannot see myself in five year time because I still dont find my ture desire of career path and I figure why dont start with my both qualifications, namely IT and Finance, hence the effort of learning FinTech.
 
 The main area of FinTech I would like to throw myself in is the Data analysis with machine learning, and hopefully I can build my own tradebot with my own algorithm, specifically in the area of stockmarket, and of course, I would like to get a bit test of gambling on things like scoccer game or others.
+
+This is going to make my third commit of the repo, because it is awesome that i can edit this file over here.
